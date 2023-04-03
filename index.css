@@ -1,19 +1,27 @@
 body {
     color: black;
-    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+
 }
 
 a {
-    color: inherit; /* blue colors for links too */
-    text-decoration: inherit; /* no underline */
+    color: inherit;
+    text-decoration: inherit; 
+    margin: 10px;
 }
 
 nav {
     background-color: black;
     color: white;
 }
+h1 {
+    margin: 0;
+}
 
 .itensNav {
-    margin-left: 50%;
     display: flex;
+}
+
+.linksNav {
+    margin-left: 65%;
 }
