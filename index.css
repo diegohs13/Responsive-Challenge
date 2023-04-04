@@ -1,0 +1,27 @@
+body {
+    color: black;
+    margin: 0;
+
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit; 
+    margin: 10px;
+}
+
+nav {
+    background-color: black;
+    color: white;
+}
+h1 {
+    margin: 0;
+}
+
+.itensNav {
+    display: flex;
+}
+
+.linksNav {
+    margin-left: 65%;
+}
